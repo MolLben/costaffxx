@@ -17,7 +17,7 @@ const SITE_CONFIG = {
     
     // Liens sociaux
     socialLinks: {
-        instagram: "https://www.instagram.com/propagulla/",
+        instagram: "https://www.instagram.com/costaffxx2/",
         tiktok: "https://www.tiktok.com/@costaffxx",
         youtube: "https://www.youtube.com/@costaffxx",
         discord: "https://discord.gg/rk5MTSYfeD",
