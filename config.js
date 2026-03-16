@@ -20,7 +20,7 @@ const SITE_CONFIG = {
         instagram: "https://www.instagram.com/propagulla/",
         tiktok: "https://www.tiktok.com/@costaffxx",
         youtube: "https://www.youtube.com/@costaffxx",
-        discord: "https://discord.gg/RnqRAJ69Hp",
+        discord: "https://discord.gg/rk5MTSYfeD",
         telegram: "https://t.me/costaffxx"
     },
     
